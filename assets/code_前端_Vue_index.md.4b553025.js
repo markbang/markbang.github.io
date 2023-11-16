@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.d084db19.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"code/前端/Vue/index.md","filePath":"code/前端/Vue/index.md"}'),o={name:"code/前端/Vue/index.md"};function n(c,r,d,s,i,p){return t(),a("div")}const f=e(o,[["render",n]]);export{m as __pageData,f as default};

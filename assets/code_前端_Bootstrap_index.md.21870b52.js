@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o}from"./chunks/framework.d084db19.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"code/前端/Bootstrap/index.md","filePath":"code/前端/Bootstrap/index.md"}'),a={name:"code/前端/Bootstrap/index.md"};function r(n,s,c,d,i,p){return t(),o("div")}const f=e(a,[["render",r]]);export{m as __pageData,f as default};
