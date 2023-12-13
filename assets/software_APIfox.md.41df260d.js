@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.d084db19.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"software/APIfox.md","filePath":"software/APIfox.md","lastUpdated":1702448098000}'),o={name:"software/APIfox.md"};function r(s,c,f,n,d,p){return t(),a("div")}const m=e(o,[["render",r]]);export{i as __pageData,m as default};
